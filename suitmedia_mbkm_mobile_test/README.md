@@ -1,16 +1,9 @@
 # suitmedia_mbkm_mobile_test
 
-A new Flutter project.
+A Flutter mobile app developed for applying MSIB program at Suitmedia for Mobile Developer position.
 
 ## Getting Started
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+Name: Gregorius Farel Prasasta   
+NIM: 2006597185     
+Email: gregorius.farel@ui.ac.id
